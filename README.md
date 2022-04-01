@@ -10,3 +10,6 @@
 
 🤩At the end,
  I would like to express my gratitude to my teammates @LINZHU and @LIFAN ZENG. 
+ 
+ Link to see how Green works: https://express.adobe.com/video/4yP80jYduLqhp 
+ View the project PPT at: https://www.catherinxxz.com/inspiration
