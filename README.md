@@ -2,7 +2,7 @@
 
 🌱Global warming has been a well-known issue since 1896, and governments and companies worldwide are working hard trying to solve this problem. 
 - New regulations for vehicle manufacturers come out every year and countless clean energy solutions for public transportation. 
-- Yet, we still don't have a feasible solution to reduce the number of single-driver vehicles on the road. 
+- Yet, we still don't have a feasible solution to reduce the number of single person in the vehicle on the road. 
 - Here at Green, we're trying to build a complete, open, and free-to-use platform for our customers to share their rides
 - in order to save more energy, improve the efficiency, and reduce the pollution🌍
 
